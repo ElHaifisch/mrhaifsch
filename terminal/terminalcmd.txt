@@ -1,3 +1,4 @@
+
 ls = list system
 pwd = path word directory
 cd = change directory
@@ -8,3 +9,5 @@ cat (filename) = ver texto dentro de archivo
 nano = importante para editar a nivel de codigo
 grep = encuentra palabra en archivo
 sudo = forzar creacion de algun archivo
+git push origin master
+
